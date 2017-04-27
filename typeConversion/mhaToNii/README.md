@@ -18,6 +18,7 @@ The main source code of the conversion script is in ./src/mhaToNii.cpp
 To compile it, from the main mhaToNii folder do:
 
 ```
+mkdir build
 cd build
 cmake ..
 make
